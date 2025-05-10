@@ -1,1 +1,1 @@
-print("External file 1")
+print("External lab file 1")
